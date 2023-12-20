@@ -36,3 +36,7 @@ From Claudia Ferreira Da Silva: "Great work - my advice is to avoid centralizing
 <br><br>
 
 ## Screenshot:
+<img width="600" alt="Screenshot of the Home page of the application" src="https://github.com/pui-yi/vue_app/assets/153875169/a98ddcbb-36b9-452b-837d-f5683c9a3e95">
+<img width="600" alt="Screenshot of the Seminars page of the application" src="https://github.com/pui-yi/vue_app/assets/153875169/6f03eb16-c94d-463b-810a-75c9ac92900b">
+<img width="600" alt="Screenshot of the application Detail page, showing details of one of the seminars listed on the Seminar page" src="https://github.com/pui-yi/vue_app/assets/153875169/7108f776-3794-49ef-9396-f0e2964b0cc0">
+<img width="600" alt="Screenshot of the application Contact page" src="https://github.com/pui-yi/vue_app/assets/153875169/5d9b5ce0-2c3d-42fe-9afe-031348c2598e">
