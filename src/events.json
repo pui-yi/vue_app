@@ -1,0 +1,29 @@
+[{
+  "id": 1,
+  "title": "STEM Internships Info Session",
+  "location": "Cloud Hall Room 300",
+  "startTime": "9:00AM",
+  "description": "Info of current internship opportunity and connection activities"
+  },
+  {
+  "id": 2,
+  "title": "Interviewing Essentials",
+  "location": "Smith Hall Room 103",
+  "startTime": "11:00AM",
+  "description": "Info of an interview. Learn to present an impressive interview"
+  },
+  {
+  "id": 3,
+  "title": "Outreach and Recruitment Virtual Help Sessions",
+  "location": "Virtual",
+  "startTime": "9:00AM",
+  "description": "Help build connections for career development"
+  },
+  {
+  "id": 4,
+  "title": "Holiday Bazaar and Demo Day",
+  "location": "Cloud Hall Room 303",
+  "startTime": "10:00AM",
+  "description": "Ideas and demo for things to do during the holiday"
+  }
+]
